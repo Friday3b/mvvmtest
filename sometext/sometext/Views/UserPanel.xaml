@@ -1,0 +1,39 @@
+﻿<Window x:Class="sometext.Views.UserPanel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sometext.Views"
+        mc:Ignorable="d"
+        Title="UserPanel" Height="450" Width="800">
+    <Grid Background="Black">
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+
+        </Grid.ColumnDefinitions>
+
+
+        <StackPanel VerticalAlignment="Center" Grid.Column="0">
+            
+            <TextBox Text="{Binding NewName ,UpdateSourceTrigger=PropertyChanged}" FontSize="15" FontWeight="ExtraLight" Name="nametxtbox"  Height="30" Margin="10" BorderBrush="Blue" BorderThickness="2"></TextBox>
+            <Button Command="{Binding AddNameCommand}" Height="30" Width="175" BorderBrush="LightGreen" BorderThickness="4" >Access</Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" VerticalAlignment="Center">
+            <ListView ItemsSource="{Binding Names}"  SelectedItem="{Binding SelectedName}" Name="name_listview" Height="200" Width="175" BorderBrush="Red" BorderThickness="3" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Content="Delete" BorderBrush="Red" Command="{Binding DeleteNameCommand}" Width="100" Margin="10"/>
+          
+        
+        </StackPanel>
+        
+    </Grid>
+</Window>

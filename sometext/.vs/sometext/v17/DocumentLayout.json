@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\views\\userpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\views\\userpanel.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\modelviews\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\modelviews\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\views\\userpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\views\\userpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\modelviews\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\modelviews\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|c:\\users\\haciy_eh89\\source\\repos\\sometext\\sometext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B61CE28-E15E-469E-AF90-20A136AE591B}|sometext\\sometext.csproj|solutionrelative:sometext\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "sometext\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "sometext\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:24:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserPanel.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Views\\UserPanel.xaml.cs",
+              "RelativeDocumentMoniker": "sometext\\Views\\UserPanel.xaml.cs",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Views\\UserPanel.xaml.cs",
+              "RelativeToolTip": "sometext\\Views\\UserPanel.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T12:04:38.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\ModelViews\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "sometext\\ModelViews\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\ModelViews\\PersonViewModel.cs",
+              "RelativeToolTip": "sometext\\ModelViews\\PersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:32:50.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "sometext\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Models\\Person.cs",
+              "RelativeToolTip": "sometext\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:18:57.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPanel.xaml",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Views\\UserPanel.xaml",
+              "RelativeDocumentMoniker": "sometext\\Views\\UserPanel.xaml",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\Views\\UserPanel.xaml",
+              "RelativeToolTip": "sometext\\Views\\UserPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T11:23:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "sometext\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\MainWindow.xaml",
+              "RelativeToolTip": "sometext\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T11:16:01.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\ModelViews\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "sometext\\ModelViews\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\ModelViews\\ViewModelBase.cs",
+              "RelativeToolTip": "sometext\\ModelViews\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:52:32.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "sometext\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Haciy_eh89\\source\\repos\\sometext\\sometext\\MainWindow.xaml.cs",
+              "RelativeToolTip": "sometext\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T11:16:00.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
